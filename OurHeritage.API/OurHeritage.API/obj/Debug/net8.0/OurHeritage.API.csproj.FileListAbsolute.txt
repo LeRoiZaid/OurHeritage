@@ -35,3 +35,341 @@ I:\Graduation\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\refin
 I:\Graduation\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.pdb
 I:\Graduation\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.genruntimeconfig.cache
 I:\Graduation\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\ref\OurHeritage.API.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\appsettings.Development.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\appsettings.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.staticwebassets.endpoints.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.exe
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.deps.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.runtimeconfig.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\AutoMapper.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Azure.Core.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Azure.Identity.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Humanizer.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\MailKit.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\MimeKit.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.ClientModel.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.CodeDom.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Core.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Service.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Core.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Service.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.csproj.AssemblyReference.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.AssemblyInfoInputs.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.AssemblyInfo.cs
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.csproj.CoreCompileInputs.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.MvcApplicationPartsAssemblyInfo.cs
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.MvcApplicationPartsAssemblyInfo.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.sourcelink.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\scopedcss\bundle\OurHeritage.API.styles.css
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.build.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.development.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.OurHeritage.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.OurHeritage.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.build.OurHeritage.API.props
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurHeritage.API.props
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurHeritage.API.props
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHerit.53A1A5FA.Up2Date
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\refint\OurHeritage.API.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.genruntimeconfig.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\ref\OurHeritage.API.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\appsettings.Development.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\appsettings.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.staticwebassets.endpoints.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.exe
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.deps.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.runtimeconfig.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.API.pdb
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\AutoMapper.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Azure.Core.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Azure.Identity.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Humanizer.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\MailKit.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\MimeKit.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.ClientModel.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.CodeDom.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Memory.Data.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Core.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Service.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Core.pdb
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\bin\Debug\net8.0\OurHeritage.Service.pdb
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.csproj.AssemblyReference.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.AssemblyInfoInputs.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.AssemblyInfo.cs
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.csproj.CoreCompileInputs.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.MvcApplicationPartsAssemblyInfo.cs
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.MvcApplicationPartsAssemblyInfo.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.sourcelink.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\scopedcss\bundle\OurHeritage.API.styles.css
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.build.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.development.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.OurHeritage.API.Microsoft.AspNetCore.StaticWebAssets.props
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.OurHeritage.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.build.OurHeritage.API.props
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurHeritage.API.props
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurHeritage.API.props
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.pack.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHerit.53A1A5FA.Up2Date
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\refint\OurHeritage.API.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.pdb
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\OurHeritage.API.genruntimeconfig.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.API\obj\Debug\net8.0\ref\OurHeritage.API.dll

@@ -1,0 +1,12 @@
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\bin\Debug\net8.0\OurHeritage.Repo.deps.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\bin\Debug\net8.0\OurHeritage.Repo.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\bin\Debug\net8.0\OurHeritage.Repo.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\OurHeritage.Repo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\OurHeritage.Repo.AssemblyInfoInputs.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\OurHeritage.Repo.AssemblyInfo.cs
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\OurHeritage.Repo.csproj.CoreCompileInputs.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\OurHeritage.Repo.sourcelink.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\OurHeritage.Repo.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\refint\OurHeritage.Repo.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\OurHeritage.Repo.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.Repo\obj\Debug\net8.0\ref\OurHeritage.Repo.dll

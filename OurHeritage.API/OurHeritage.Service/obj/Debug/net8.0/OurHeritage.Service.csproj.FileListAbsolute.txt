@@ -1,0 +1,32 @@
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Service.deps.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Service.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Service.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Core.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Core.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.csproj.AssemblyReference.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.AssemblyInfoInputs.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.AssemblyInfo.cs
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.csproj.CoreCompileInputs.cache
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.sourcelink.json
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHerit.C7EF5125.Up2Date
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\refint\OurHeritage.Service.dll
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.pdb
+G:\Graduation Project\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\ref\OurHeritage.Service.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Service.deps.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Service.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Service.pdb
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Core.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\bin\Debug\net8.0\OurHeritage.Core.pdb
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.csproj.AssemblyReference.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.AssemblyInfoInputs.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.AssemblyInfo.cs
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.csproj.CoreCompileInputs.cache
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.sourcelink.json
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHerit.C7EF5125.Up2Date
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\refint\OurHeritage.Service.dll
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\OurHeritage.Service.pdb
+G:\project\OurHeritage\OurHeritage.API\OurHeritage.Service\obj\Debug\net8.0\ref\OurHeritage.Service.dll

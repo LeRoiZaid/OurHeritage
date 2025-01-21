@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Graduation\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj": {}
+    "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj": {}
   },
   "projects": {
-    "I:\\Graduation\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj": {
+    "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Graduation\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj",
+        "projectUniqueName": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj",
         "projectName": "OurHeritage.API",
-        "projectPath": "I:\\Graduation\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj",
-        "packagesPath": "C:\\Users\\esmai\\.nuget\\packages\\",
-        "outputPath": "I:\\Graduation\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\obj\\",
+        "projectPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\OurHeritage.API.csproj",
+        "packagesPath": "C:\\Users\\compu city\\.nuget\\packages\\",
+        "outputPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\esmai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\compu city\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,7 +31,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\OurHeritage.Core.csproj": {
+                "projectPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\OurHeritage.Core.csproj"
+              },
+              "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Service\\OurHeritage.Service.csproj": {
+                "projectPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Service\\OurHeritage.Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -42,7 +49,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -50,6 +57,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -74,7 +87,187 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\OurHeritage.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\OurHeritage.Core.csproj",
+        "projectName": "OurHeritage.Core",
+        "projectPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\OurHeritage.Core.csproj",
+        "packagesPath": "C:\\Users\\compu city\\.nuget\\packages\\",
+        "outputPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\compu city\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Service\\OurHeritage.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Service\\OurHeritage.Service.csproj",
+        "projectName": "OurHeritage.Service",
+        "projectPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Service\\OurHeritage.Service.csproj",
+        "packagesPath": "C:\\Users\\compu city\\.nuget\\packages\\",
+        "outputPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\compu city\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\OurHeritage.Core.csproj": {
+                "projectPath": "G:\\project\\OurHeritage\\OurHeritage.API\\OurHeritage.Core\\OurHeritage.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
