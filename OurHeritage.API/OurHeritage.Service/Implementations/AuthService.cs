@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using OurHeritage.Core.Entities;
@@ -20,6 +21,7 @@ namespace OurHeritage.Service.Implementations
         private readonly IConfiguration _configuration;
         private readonly SignInManager<User> _signInManager;
         private readonly IEmailService _emailService;
+        private readonly IMemoryCache _memoryCache;
         private static ConcurrentDictionary<string, string> OtpStorage = new ConcurrentDictionary<string, string>(); /// for otp code
 
         public AuthService(UserManager<User> userManager,
@@ -27,7 +29,8 @@ namespace OurHeritage.Service.Implementations
                            IMapper mapper,
                            IConfiguration configuration,
                            SignInManager<User> signInManager,
-                           IEmailService emailService)
+                           IEmailService emailService,
+                           IMemoryCache memoryCache)
         {
             _userManager = userManager;
             _roleManager = roleManager;
@@ -35,6 +38,7 @@ namespace OurHeritage.Service.Implementations
             _configuration = configuration;
             _signInManager = signInManager;
             _emailService = emailService;
+            _memoryCache = memoryCache;
         }
 
         public async Task<ResponseDto> RegisterAsync(RegisterDto registerDto)
@@ -252,7 +256,7 @@ namespace OurHeritage.Service.Implementations
 
 
 
-        // This function for forgot-password it takes an email and sends otp code for this email
+        /// This function for forgot-password it takes an email and sends otp code for this email
         public async Task<ResponseDto> ForegotPassword(ForgotPasswordDto dto)
         {
             var user = await _userManager.FindByEmailAsync(dto.Email);
@@ -266,7 +270,7 @@ namespace OurHeritage.Service.Implementations
                 };
             }
             var token = await _userManager.GeneratePasswordResetTokenAsync(user);
-            var otpCode = GenerateOtpCode(6);
+            var otpCode = GenerateOtpCode();
             var toEmail = dto.Email;
             var subject = "Forgot Password Request";
             var body = $"Your OTP Code is:\a{otpCode}\a Don't share it with anyone";
@@ -282,10 +286,11 @@ namespace OurHeritage.Service.Implementations
             };
         }
 
-        // This function for reset-password it takes otp code that have been sent to email then you can reset your password
-        public async Task<ResponseDto> RessetPassword(ResetPasswordDto dto)
+        /// This function for reset-password it takes otp code that has been sent to email then you can reset your password
+        public async Task<ResponseDto> ResetPassword(ResetPasswordDto dto)
         {
             var response = new ResponseDto();
+            /// check if userInputOtp matching with otp that has been sent to email
             if (!OtpStorage.TryGetValue(dto.Email, out var otpstorage) || otpstorage != dto.OtpCode)
             {
                 response.Status = 400;
@@ -311,16 +316,24 @@ namespace OurHeritage.Service.Implementations
             return response;
         }
 
-        private string GenerateOtpCode(int n) // n = length
+        private string GenerateOtpCode()
         {
             var random = new Random();
-            string otp = string.Empty;
-            for (int i = 0; i < n; i++)
-            {
-                otp += random.Next(0, 10).ToString();
 
+            return random.Next(100000, 999999).ToString();
+        }
+
+        public async Task<bool> ResendOtpCode(SendOTPRequest sendOTPRequest)
+        {
+            var isExist = await _userManager.FindByEmailAsync(sendOTPRequest.Email);
+            if (isExist == null)
+            {
+                return false;
             }
-            return otp;
+            string newOtp = GenerateOtpCode();
+            var body = $"Your OTP Code is:\a{newOtp}\a Don't share it with anyone";
+            await _emailService.SendEmailAsync(sendOTPRequest.Email, "Sending Otp code", body);
+            return true;
         }
     }
 }

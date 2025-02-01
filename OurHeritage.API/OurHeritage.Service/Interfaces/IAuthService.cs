@@ -15,6 +15,7 @@ namespace OurHeritage.Service.Interfaces
         Task SignOutAsync();
 
         Task<ResponseDto> ForegotPassword(ForgotPasswordDto dto);
-        Task<ResponseDto> RessetPassword(ResetPasswordDto dto);
+        Task<ResponseDto> ResetPassword(ResetPasswordDto dto);
+        Task<bool> ResendOtpCode(SendOTPRequest sendOTPRequest);
     }
 }

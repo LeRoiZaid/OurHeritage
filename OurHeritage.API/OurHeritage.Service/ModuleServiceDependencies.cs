@@ -11,6 +11,8 @@ namespace OurHeritage.Service
         {
             services.AddScoped<IAuthService, AuthService>();
             services.AddTransient<IEmailService, EmailService>();
+            services.AddMemoryCache();
+
 
             /// Register automapper
             services.AddAutoMapper(Assembly.GetExecutingAssembly());

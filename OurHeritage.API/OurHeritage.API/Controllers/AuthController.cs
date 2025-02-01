@@ -48,7 +48,7 @@ namespace OurHeritage.API.Controllers
 
 
         [HttpPost("assign-role")]
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AssignRole([FromBody] RoleDto model)
         {
             var result = await _authService.AssignRoleAsync(model);
@@ -91,7 +91,6 @@ namespace OurHeritage.API.Controllers
         }
 
 
-
         [HttpPost("forgot-password")]
         public async Task<IActionResult> ForgotPassword([FromBody] ForgotPasswordDto dto)
         {
@@ -104,27 +103,29 @@ namespace OurHeritage.API.Controllers
         [HttpPost("reset-password")]
         public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordDto dto)
         {
-            var response = await _authService.RessetPassword(dto);
+            var response = await _authService.ResetPassword(dto);
             if (!response.IsSucceeded)
                 return BadRequest(new ApiResponse(response.Status, response.Message));
             return Ok(ModelState);
         }
 
 
-        // !!!
+        [HttpPost("resend-otp")]
+        public async Task<IActionResult> ResendOTPCode([FromBody] SendOTPRequest sendOTPRequest)
+        {
+            bool sent = await _authService.ResendOtpCode(sendOTPRequest);
+            if (!sent)
+                return BadRequest(new ApiResponse(400, "An error occured during resending otp-code"));
+            return Ok("We sent you an email, please check it");
+        }
+
+
         [HttpPost("logout")]
         public IActionResult Logout()
         {
             var response = _authService.SignOutAsync();
             return Ok(new { message = "User logged out successfully." });
         }
-
-
-
-        /// TODO:
-        /// 1. refresh token
-        /// 2. Confirm email
-        /// 3. resend confirm email
 
 
     }

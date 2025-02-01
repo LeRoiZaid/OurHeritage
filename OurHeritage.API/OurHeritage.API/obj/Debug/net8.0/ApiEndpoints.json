@@ -117,6 +117,22 @@
   },
   {
     "ContainingType": "OurHeritage.API.Controllers.AuthController",
+    "Method": "ResendOTPCode",
+    "RelativePath": "api/Auth/resend-otp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sendOTPRequest",
+        "Type": "OurHeritage.Service.DTOs.AuthDto.SendOTPRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OurHeritage.API.Controllers.AuthController",
     "Method": "ResetPassword",
     "RelativePath": "api/Auth/reset-password",
     "HttpMethod": "POST",
